@@ -27,7 +27,9 @@ Configure RIP in routers
 click on add to add networks
 
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/97346786/199728622-10b11692-ddfa-40a8-ba61-1aa302372c38.png"> <img width="298" alt="image" src="https://user-images.githubusercontent.com/97346786/199728668-f67bd758-218a-49b0-8304-a18fc856fc34.png">
+
  go to global settings and save
+ 
  <img width="294" alt="image" src="https://user-images.githubusercontent.com/97346786/199728776-ac438756-3314-4525-99fb-cd4eb1bbbfb8.png">
 
 
