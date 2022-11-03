@@ -1,6 +1,7 @@
 1. Setup multiple IP addresses
 
 cd /
+
 sudo ifconfig
 
 sudo ifconfig enp3s0:0 172.16.60.35 netmask 255.255.255.0 up
