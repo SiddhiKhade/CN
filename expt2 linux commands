@@ -1,0 +1,18 @@
+ipconfig
+
+nslookup
+>www.youtube.com
+>www.instagram.com
+
+ping 142.250.192.6
+
+tracert wwww.google.com
+route print
+
+netstat
+
+arp -a
+
+ip address
+
+dig
